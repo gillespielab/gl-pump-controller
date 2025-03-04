@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*%
+%TF.CreationDate,2024-09-16T12:53:31-07:00*%
+%TF.ProjectId,PumpController8,50756d70-436f-46e7-9472-6f6c6c657238,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2024-09-16 12:53:31*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.508000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J9*%
+X249910600Y-69342000D02*
+G75*
+G02*
+X249148600Y-69342000I-381000J0D01*
+G01*
+X249148600Y-69342000D02*
+G75*
+G02*
+X249910600Y-69342000I381000J0D01*
+G01*
+%TD*%
+M02*
