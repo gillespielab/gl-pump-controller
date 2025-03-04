@@ -1,5 +1,5 @@
 # gl-pump-controller
-This board is a SpikeGadgets ECU client, which acts as an RJ-45 breakout board for 8 or the DIO ports, and as a pump controller for the other 8 DIO ports in the bank.
+This board is a SpikeGadgets ECU accessory, which acts as an RJ-45 breakout board for 8 or the DIO ports, and as a pump controller for the other 8 DIO ports in the bank. KiCAD is required to open/edit this project, and can be downloaded at https://www.kicad.org/download/
 
 # Download Instructions
 1. Clone the repo `git clone --recursive https://github.com/gillespielab/gl-pump-controller`
