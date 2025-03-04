@@ -1,0 +1,3 @@
+[submodule "gl-electronics"]
+	path = gl-electronics
+	url = https://github.com/gillespielab/gl-electronics
